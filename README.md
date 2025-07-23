@@ -1,2 +1,3 @@
 # FirstRipo-demo
-This is my second repository
+This is my another repository
+Author - Mariya Mehrin
